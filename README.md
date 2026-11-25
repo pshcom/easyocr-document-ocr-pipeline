@@ -1,0 +1,1 @@
+# easyocr-document-ocr-pipeline
